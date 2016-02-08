@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SearchField.qml</file>
+        <file>SearchResultList.qml</file>
+        <file>StockTableView.qml</file>
+        <file>canvasjs/canvasjs.min.js</file>
+    </qresource>
+</RCC>
